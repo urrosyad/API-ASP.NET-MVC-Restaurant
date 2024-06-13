@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1JqFPc+zT8MukDrKlGqIvzxl8QsubNuM6YecTe8vkfA=",
+  "Source": "Stackup.Api",
+  "BasePath": "_content/Stackup.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
